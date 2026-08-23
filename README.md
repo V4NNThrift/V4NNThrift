@@ -14,11 +14,7 @@
 
 ---
 
-<div align="center">
-
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/person-raising-hand_1f44b.png" width="25" /> ABOUT ME
-
-</div>
+## 👋 ABOUT ME
 
 <table>
 <tr>
@@ -31,7 +27,7 @@ Location : Indonesia
 Focus    : DevOps, Mobile, Web, Game Dev
 ```
 
-Developer yang suka bikin tools & game. Mulai dari bot Discord, web apps, mobile apps, sampe game idle tycoon. Semuanya dikerjain serius tapi tetap fun.
+Developer yang suka bikin tools & game. Mulai dari bot Discord, web apps, mobile apps, sampe game idle tycoon.
 
 </td>
 <td width="40%" align="center">
@@ -44,11 +40,7 @@ Developer yang suka bikin tools & game. Mulai dari bot Discord, web apps, mobile
 
 ---
 
-<div align="center">
-
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/fire_1f525.png" width="25" /> TECH STACK
-
-</div>
+## 🔥 TECH STACK
 
 <div align="center">
 
@@ -71,11 +63,7 @@ Developer yang suka bikin tools & game. Mulai dari bot Discord, web apps, mobile
 
 ---
 
-<div align="center">
-
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/trophy_1f3c6.png" width="25" /> GITHUB ACTIVITY
-
-</div>
+## 🏆 GITHUB ACTIVITY
 
 <div align="center">
 
@@ -92,13 +80,9 @@ Developer yang suka bikin tools & game. Mulai dari bot Discord, web apps, mobile
 
 ---
 
-<div align="center">
+## 📦 PROJECTS
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/package_1f4e6.png" width="25" /> PROJECTS
-
-</div>
-
-### <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="20" /> DevOps & Tools
+### 🚀 DevOps & Tools
 
 <table>
 <tr>
@@ -115,7 +99,7 @@ Developer yang suka bikin tools & game. Mulai dari bot Discord, web apps, mobile
 </tr>
 </table>
 
-### <img src="https://em-content.zobj.net/source/microsoft-teams/363/laptop_1f4bb.png" width="20" /> Web & Mobile Apps
+### 💻 Web & Mobile Apps
 
 <table>
 <tr>
@@ -137,7 +121,7 @@ Developer yang suka bikin tools & game. Mulai dari bot Discord, web apps, mobile
 </tr>
 </table>
 
-### <img src="https://em-content.zobj.net/source/microsoft-teams/363/game-die_1f3b2.png" width="20" /> Games
+### 🎮 Games
 
 <table>
 <tr>
@@ -154,7 +138,7 @@ Developer yang suka bikin tools & game. Mulai dari bot Discord, web apps, mobile
 </tr>
 </table>
 
-### <img src="https://em-content.zobj.net/source/microsoft-teams/363/robot_1f916.png" width="20" /> AI Projects
+### 🤖 AI Projects
 
 <table>
 <tr>
@@ -178,30 +162,18 @@ Developer yang suka bikin tools & game. Mulai dari bot Discord, web apps, mobile
 
 ---
 
-<div align="center">
-
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/bar-chart_1f4ca.png" width="25" /> STATS OVERVIEW
-
-</div>
-
-<div align="center">
+## 📊 STATS OVERVIEW
 
 | Category | Count | Highlight |
 |----------|-------|-----------|
 | Repositories | 28 | Active & growing |
-| Languages | 10+ | JS, TS, Python, GDScript, Kotlin, Lua, PHP |
+| Languages | 10+ | JS, TS, Python, GDScript, Kotlin, Lua |
 | Frameworks | 8+ | Next.js, React Native, Expo, Godot, Capacitor |
 | Projects | 10+ | Web, Mobile, Game, AI, DevOps |
 
-</div>
-
 ---
 
-<div align="center">
-
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/link_1f517.png" width="25" /> CONNECT
-
-</div>
+## 🔗 CONNECT
 
 <div align="center">
 
